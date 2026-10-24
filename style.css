@@ -1,0 +1,10 @@
+<!--index.html:inside head-->
+<link rel="stylesheet" href="style.css">
+<!-- index.html: inside body -->
+<p class="task">Read slides</p>
+/* style.css */
+.task {
+ color: #2563eb;
+ background:#eff6ff;
+ font-size:20px;
+}
